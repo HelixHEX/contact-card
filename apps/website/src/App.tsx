@@ -41,7 +41,7 @@ const App = () => {
             Gallary
           </Card>
           <Card
-            link={"gallary.eliaswambugu.com"}
+            link={"eliaswambugu.com"}
             color="white"
             className="projects"
           >
@@ -55,7 +55,7 @@ const App = () => {
             Instagram
           </Card>
           <Card
-            link={"instagram.com/dandeproductions"}
+            link={"twitter.com/officialeliasw"}
             color="white"
             bg='#1DA1F2'
           >
