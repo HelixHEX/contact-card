@@ -9,6 +9,7 @@ const App = () => {
         h="100vh"
         bg="gray.900"
         p={{ base: 35, md: 55 }}
+        pb={{base: 15, md: 55}}
         justify="center"
       >
         <Flex w="100%" flexDir="column" justify={'space-between'}>
