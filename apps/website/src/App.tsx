@@ -6,11 +6,12 @@ const App = () => {
     <>
       <Flex
         w="100%"
-        h="100vh"
+        minH="100vh"
+        h={'auto'}
         bg="gray.900"
-        p={{ base: 35, md: 55 }}
-        pb={{base: 15, md: 55}}
+        p={{ base: 25, md: 55 }}
         justify="center"
+       
       >
         <Flex w="100%" flexDir="column" justify={'space-between'}>
           <Flex flexDir={'column'}>
@@ -41,7 +42,7 @@ const App = () => {
               Programmer by day. Photographer by night.
             </Text>
             <Card
-              link={"gallary.eliaswambugu.com"}
+              link={"gallery.eliaswambugu.com"}
               color="white"
               className="gallary"
             >
