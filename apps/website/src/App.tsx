@@ -70,7 +70,7 @@ const App = () => {
               color="white"
               bg="#1DB954"
             >
-              Spotify
+              Spotify Playlist
             </Card>
           </Flex>
           <Flex color="white" fontWeight={"200"} alignSelf={"center"}>
