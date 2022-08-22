@@ -73,10 +73,10 @@ const App = () => {
               Spotify Playlist
             </Card>
           </Flex>
-          <Flex color="white" fontWeight={"200"} alignSelf={"center"}>
+          {/* <Flex color="white" fontWeight={"200"} alignSelf={"center"}>
             <Text>Created By: </Text>
             <Text bgGradient='linear(to-l, #7928CA, #FF0080)' bgClip='text' fontWeight={'600'}>&nbsp; &nbsp;Elias Wambugu</Text>
-          </Flex>
+          </Flex> */}
         </Flex>
       </Flex>
     </>
