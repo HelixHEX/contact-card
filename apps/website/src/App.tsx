@@ -65,6 +65,13 @@ const App = () => {
             >
               Twitter
             </Card>
+            <Card
+              link={"open.spotify.com/playlist/7Gke6KjzgfRnSGtwTCQFHq?si=0947d33d81fc4283"}
+              color="white"
+              bg="#1DB954"
+            >
+              Spotify
+            </Card>
           </Flex>
           <Flex color="white" fontWeight={"200"} alignSelf={"center"}>
             <Text>Created By: </Text>
