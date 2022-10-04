@@ -59,7 +59,7 @@ const App = () => {
               Instagram
             </Card>
             <Card
-              link={"twitter.com/officialeliasw"}
+              link={"twitter.com/eliasdevs"}
               color="white"
               bg="#1DA1F2"
             >
