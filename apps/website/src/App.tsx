@@ -66,7 +66,7 @@ const App = () => {
               Twitter
             </Card>
             <Card
-              link={"open.spotify.com/playlist/7Gke6KjzgfRnSGtwTCQFHq?si=0947d33d81fc4283"}
+              link={"open.spotify.com/playlist/5W2e4RbH8sXFDx27xqsO26?si=f60c70c8358b420a"}
               color="white"
               bg="#1DB954"
             >
